@@ -12,4 +12,5 @@ for (let i = 0; i < 3; i++) {
  
 element.appendChild(ul)
 
+let main = document.querySelector('main')
 main.remove()
